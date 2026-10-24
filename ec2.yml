@@ -23,5 +23,5 @@ Resources:
         - !Ref InstanceSecurityGroup
       Tags:
         - Key: Name
-          Value: first ec2
+          Value: aakanksha
 
