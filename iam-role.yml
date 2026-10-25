@@ -25,6 +25,8 @@ Resources:
                 Action:
                   - s3:GetObject
                   - s3:ListBucket
+                  - ec2:Describe*
+                  - iam:*
                 Resource:
                   - '*'
 
